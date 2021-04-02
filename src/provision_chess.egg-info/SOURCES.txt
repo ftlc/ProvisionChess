@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/provision_chess/__init__.py
+src/provision_chess.egg-info/PKG-INFO
+src/provision_chess.egg-info/SOURCES.txt
+src/provision_chess.egg-info/dependency_links.txt
+src/provision_chess.egg-info/top_level.txt
